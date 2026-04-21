@@ -30,8 +30,8 @@ Soy estudiante de **2º de Desarrollo de Aplicaciones Multiplataforma (DAM)**. M
 ### 📈 Mis Estadísticas de GitHub
 
 <p align="left">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_DE_GITHUB&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_DE_GITHUB&layout=compact&theme=tokyonight&langs_count=6"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Paworo06&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paworo06&layout=compact&theme=tokyonight&langs_count=6"/>
 </p>
 
 ---
