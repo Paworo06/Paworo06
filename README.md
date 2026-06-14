@@ -1,8 +1,6 @@
 <h1 align="center">Hola 👋, soy Paworo06</h1>
 <h3 align="center">Un chico que está estudiando informática y que le encanta la programación</h3>
 
-- 🔭 Actualmente estoy trabajando en [RoscoPasapalabra](https://github.com/Paworo06/RoscoPasapalabra.git)
-
 - 🌱 Me encuentro aprendiendo a trabajar con **React, JavaScript**
 
 - 📫 Si necesitas contactar conmigo hazlo a través del siguiente email: **paworotrabajo@gmail.com**
